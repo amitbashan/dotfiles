@@ -1,0 +1,14 @@
+{
+    "editor.fontSize": 13,
+    "editor.fontFamily": "Fira Code",
+    "editor.formatOnSave": true,
+    "editor.fontLigatures": true,
+    "git.ignoreMissingGitWarning": true,
+    "workbench.iconTheme": "vscode-icons",
+    "update.showReleaseNotes": false,
+    "workbench.colorTheme": "Ayu Dark",
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#E6C62F"
+    },
+    "git.enableSmartCommit": true
+}
